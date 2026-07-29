@@ -90,8 +90,7 @@ Performed in-depth exploratory analysis to uncover patterns, trends, and relatio
 Feel free to reach out if you have questions or suggestions regarding any of these projects.
 
 - **Name:** Talha Aslam
-- **LinkedIn:** *(add your LinkedIn link)*
-- **Email:** *(add your email)*
+- **LinkedIn:** *https://www.linkedin.com/in/talha-aslam-2693661b7/*
+- **Email:** *talhaaslam31453@gmail.com*
 
----
-⭐ If you found this repository helpful, consider giving it a star!
+
